@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121540656833",
+    "project_id": "brew-crew-7d790",
+    "storage_bucket": "brew-crew-7d790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121540656833:android:1ec52f53873b8dc366de40",
+        "android_client_info": {
+          "package_name": "com.example.fire_tutuo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121540656833-c4peo6l8v0htuvjan1ho8vang2f6tfpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYqrFj4LT9hx7dprfQ0YCoLXzVhMt8QEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121540656833-c4peo6l8v0htuvjan1ho8vang2f6tfpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
